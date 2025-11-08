@@ -72,6 +72,7 @@ Implement Salesforce CRM to:
    - Reports & Dashboards  
 
 Demo video 
-https://drive.google.com/file/d/1gCnB4kcHUJdpAXFcfGmg-2tr8mINYcCZ/view?usp=drivesdk
+*(https://drive.google.com/file/d/1td8fZLF1TT77xiTgczrMV2tw2GDIZVd0/view?usp=sharing)*
 # smartpropertyportal--crm
+
 
